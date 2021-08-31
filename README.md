@@ -1,6 +1,6 @@
 # Latana Slider
 
-Project Structure:
+Project Structure:\
 |- public\
 |- src\
 __ |- App.js\
