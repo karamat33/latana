@@ -8,7 +8,7 @@ __ |- components\
 ____ |- Button (ex: Learn More)\
 ____ |- Card (the actual slide)\
 ____ |- Carousel (Slider)\
- ____|- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
+____ |- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
     
 
 ## Available Scripts
