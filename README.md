@@ -4,7 +4,7 @@ Project Structure:\
 |- public\
 __ |- assets\
 |- src\
-__ |- App.js\
+__ |- App.js (contains the dummy array of data) \
 __ |- components\
 ____ |- Button (ex: Learn More)\
 ____ |- Card (the actual slide)\
