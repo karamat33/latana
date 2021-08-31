@@ -3,12 +3,12 @@
 Project Structure:
 |- public\
 |- src\
-  |- App.js\
-  |- components\
-    |- Button (ex: Learn More)\
-    |- Card (the actual slide)\
-    |- Carousel (Slider)\
-    |- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
+__ |- App.js\
+__ |- components\
+____ |- Button (ex: Learn More)\
+____ |- Card (the actual slide)\
+____ |- Carousel (Slider)\
+ ____|- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
     
 
 ## Available Scripts
