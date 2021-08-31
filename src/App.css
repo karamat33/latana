@@ -1,0 +1,21 @@
+.App {
+  font-family:Mulish;
+  padding:20px;
+  font-size:100%;
+  
+}
+.section-title{
+	font-size:3rem;
+	font-weight:800;
+	line-height:3.8rem;
+	margin-bottom:0.5rem
+}
+.section-description{
+	font-size:1.25rem;
+	font-weight:400;
+	line-height:1.5rem
+}
+.slider{
+	margin-top:3rem
+}
+

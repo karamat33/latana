@@ -1,0 +1,50 @@
+.carousel {
+  overflow: hidden;
+}
+
+.inner {
+  white-space: nowrap;
+  transition: transform 0.3s;
+}
+
+.carousel-item {
+  display: inline-flex;
+  height: 'auto';
+  margin-right:0.6rem
+}
+
+.indicators {
+  margin-top:3rem
+}
+
+.indicators > button {
+ width:3rem;
+ height:3rem;
+ background:none;
+ border:1px solid #31135E;
+ border-radius:100%;
+ margin-right:1rem;
+ transition: background 0.15s;
+	transition-timing-function: ease-in-out;
+}
+
+.indicators > button:hover {
+ background:#31135E;
+}
+
+.indicators > button:hover  .icon{
+	color:white
+}
+
+.indicators > button.active {
+  background-color: green;
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+			.carousel-item {
+
+  margin-right:0px;
+
+}
+		}
