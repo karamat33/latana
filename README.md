@@ -2,6 +2,7 @@
 
 Project Structure:\
 |- public\
+__ |- assets\
 |- src\
 __ |- App.js\
 __ |- components\
@@ -9,7 +10,10 @@ ____ |- Button (ex: Learn More)\
 ____ |- Card (the actual slide)\
 ____ |- Carousel (Slider)\
 ____ |- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
-    
+
+### `npm install`
+
+Install the required packages.
 
 ## Available Scripts
 
