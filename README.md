@@ -1,14 +1,14 @@
 # Latana Slider
 
 Project Structure:
-|- public
-|- src
-  |- App.js
-  |- components
-    |- Button (ex: Learn More)
-    |- Card (the actual slide)
-    |- Carousel (Slider)
-    |- UserBreakPoint (Handling multiple breakpoints for responsiveness)
+|- public\
+|- src\
+  |- App.js\
+  |- components\
+    |- Button (ex: Learn More)\
+    |- Card (the actual slide)\
+    |- Carousel (Slider)\
+    |- UserBreakPoint (Handling multiple breakpoints for responsiveness)\
     
 
 ## Available Scripts
